@@ -2,12 +2,12 @@
 
 ## 1. Terrraform Test Framework Examples
 
-- [Code Repository](./terraform_test/)
+- [Code Repository](https://github.com/learnwithgvr/terraform_test.git)
 - [Readme.md](./terraform_test/Readme.md)
 
 ## 2. Terraform Test Mocking Examples
 
-- [Code Repository](./terraform_test_mocking/)
+- [Code Repository](https://github.com/learnwithgvr/terraform_test_mocking.git)
 - [Readme.md](./terraform_test_mocking/README.md)
 
 ### Youtube video tutorials

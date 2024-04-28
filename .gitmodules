@@ -1,0 +1,6 @@
+[submodule "terraform_test"]
+	path = terraform_test
+	url = https://github.com/learnwithgvr/terraform_test.git
+[submodule "terraform_test_mocking"]
+	path = terraform_test_mocking
+	url = https://github.com/learnwithgvr/terraform_test_mocking.git
